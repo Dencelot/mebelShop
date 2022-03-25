@@ -2160,3 +2160,8 @@ body {
   justify-content: flex-start;
   padding-bottom: 5px;
 }
+@media (any-hover: hover) {
+  ._touch .cart-header__icon:hover {
+    color: #262f56;
+  }
+}
